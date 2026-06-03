@@ -68,12 +68,10 @@ Owner kiểm thử path này là thành viên phụ trách Test / failure path.
 
 ## 8. Owner plan cho sáng Day 06
 
-| Thành viên | Việc phụ trách                | Bằng chứng cần có trong repo                                                                     |
-| ------------ | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
-|              | SPEC / tổng hợp nội dung repo | `thin-spec.md`, link prototype, phần giải thích build slice.                                    |
-|              | Research / evidence              | Ghi chú phỏng vấn nhanh 2-3 người hoặc review/comment public, cập nhật `evidence-pack.md`. |
-|              | Prototype                        | Source code chatbot, màn hình chat, flow gợi ý chuyên khoa và slot khám.                      |
-|              | Test / failure path              | Test cases happy, low-confidence, failure, correction; screenshot kết quả.                         |
-|              | Demo script / repo               | Kịch bản demo 3-5 phút, README, ảnh minh họa trước/sau.                                       |
-
-Nếu nhóm ít hơn 5 người, gộp vai trò theo thứ tự ưu tiên: Prototype + SPEC, Research, Test/failure path, Demo/repo.
+| Thành viên                         | Việc phụ trách                | Bằng chứng cần có trong repo                                                                     |
+| ------------------------------------ | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Trần Trúc Quỳnh                   | SPEC / tổng hợp nội dung repo | `thin-spec.md`, link prototype, phần giải thích build slice.                                    |
+| Nguyễn Xuân Tới                   | Research / evidence              | Ghi chú phỏng vấn nhanh 2-3 người hoặc review/comment public, cập nhật `evidence-pack.md`. |
+| Nguyễn Huy Cảnh+Nguyễn Nam Thắng | Prototype                        | Source code chatbot, màn hình chat, flow gợi ý chuyên khoa và slot khám.                      |
+| Phạm Thị Bích Ngọc               | Test / failure path              | Test cases happy, low-confidence, failure, correction; screenshot kết quả.                         |
+| Nguyễn Tiến Huân                  | Demo script / repo               | Kịch bản demo 3-5 phút, README, ảnh minh họa trước/sau.                                       |
